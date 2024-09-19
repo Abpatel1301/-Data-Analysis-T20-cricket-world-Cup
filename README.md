@@ -1,6 +1,6 @@
 # -Data-Analysis-T20-cricket-world-Cup
 
- # IPL 2024 Live Score Dashboard
+ # T20 Cricket world Cup Data Analysis 
 
 This project involves building a dashboard from scratch that showcases T20 Cricket world cup 2022 Data Analysis and will find Best 11 players across all team.The dashboard is designed to display information based on the selected data, providing a detailed and interactive user experience.
 
